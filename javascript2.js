@@ -1,1 +1,1 @@
-console.log("segundo archivo despues de la rama login 2");
+console.log("segundo archivo despues de la rama login 2 (conflicto main)");
